@@ -133,6 +133,8 @@ python3 generate_drive_token.py
 ```
 ## Deploying
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 - Start docker daemon (skip if already running):
 ```
 sudo dockerd
